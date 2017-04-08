@@ -1,24 +1,5 @@
-# README
+# Visitors Center
+### Developed by [Arief R Ramadhan](https://ariefrizky.com)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Visitors Center is a simple web app to list all of the visitors. Learned from:
+[AngularJS with Rails Tutorial](https://richonrails.com/articles/getting-started-with-angularjs-and-rails)
